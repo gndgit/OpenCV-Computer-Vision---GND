@@ -1,2 +1,2 @@
 # OpenCV-Computer-Vision---GND
-Tutorial &amp; Self Learning
+Tutorial files &amp; Self Learning
